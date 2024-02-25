@@ -26,7 +26,6 @@ Location: India
 Location: India
 
 - [PCB Manufacturing Service - Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) 
-- [PCB Manufacturing Service - StacksKB](https://stackskb.com/pcb-manufacturing-service/) 
 - [Lioncircuits](https://www.lioncircuits.com/)  
 - [ThinkRobotics - PCB Designing Service](https://thinkrobotics.com/pages/pcb)  
 
