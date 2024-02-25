@@ -20,7 +20,7 @@ Location: India
 - [Ramraj Repair Tools](https://ramrajrepairtools.com/)
 - [Robocraze](https://robocraze.com/)  
 - [KTRON India](https://www.ktron.in/)  
-- [HUBTRONICS | Industrial Electronics Components and Development Tools India](https://hubtronics.in/index.php?route=common/home)
+- [HUBTRONICS](https://hubtronics.in/index.php?route=common/home) Industrial Electronics Components and Development Tools India
 - [Hnhcart](https://www.hnhcart.com/)  
 - [QuartzComponents](https://quartzcomponents.com/)  
 - [Goodwill Enterprises India](https://www.goodwill.in/)  Buy Hand Tools, Power Tools & Measuring Tools
