@@ -1,5 +1,5 @@
 # Git Repos Master List
-last update: 2023-11-14
+last update: 2024-02-25
 
 > this is a work in progress
 
@@ -98,11 +98,13 @@ promicro footprint rp2040
 ## keyboard ki-cad component libraries 
 - [Digi-Key/digikey-kicad-library: An atomic parts library for Ki-Cad.](https://github.com/Digi-Key/digikey-kicad-library) 
 - [crides/kleeb: Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation](https://github.com/crides/kleeb)
+- [egladman/keebs.pretty: KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers](https://github.com/egladman/keebs.pretty)  
 - [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
 - [kiswitch/kiswitch: Footprints for popular keyboard switches](https://github.com/kiswitch/kiswitch)
 - [foostan/kbd: for building keyboard libraries](https://github.com/foostan/kbd)
 - [daprice/keyswitches.pretty: KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets](https://github.com/daprice/keyswitches.pretty)
 - [ebastler/marbastlib: A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards](https://github.com/ebastler/marbastlib)
+
 
 ### keebio
 - [keebio/keebio-components: KiCAD components for schematics](https://github.com/keebio/keebio-components)
