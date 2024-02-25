@@ -1,5 +1,5 @@
 # Master List 
-last update: 2023-11-14
+last update: 2024-02-25
 > this is a work in progress
 
 ## global trackers
@@ -8,12 +8,11 @@ last update: 2023-11-14
 - [17TRACK](https://www.17track.net/en)
 - [Global Track And Trace](https://globaltracktrace.ptc.post/gtt.web/) universal postal union
 
-## general electronics 
+## general electronics and power tools
 Location: India
 
 - [Robu.in](https://robu.in/)  
 - [Sharvielectronics](https://sharvielectronics.com/)  
-- [ThinkRobotics.com](https://thinkrobotics.com/)  
 - [Evelta](https://evelta.com/)  
 - [Sunrom Electronics](https://www.sunrom.com/)  
 - [Semikart](https://www.semikart.com/)  to buy from element14 , mouser , tme
@@ -21,6 +20,22 @@ Location: India
 - [Ramraj Repair Tools](https://ramrajrepairtools.com/)
 - [Robocraze](https://robocraze.com/)  
 - [KTRON India](https://www.ktron.in/)  
+- [HUBTRONICS | Industrial Electronics Components and Development Tools India](https://hubtronics.in/index.php?route=common/home)
+- [Hnhcart](https://www.hnhcart.com/)  
+- [QuartzComponents](https://quartzcomponents.com/)  
+- [Goodwill Enterprises India](https://www.goodwill.in/)  Buy Hand Tools, Power Tools & Measuring Tools
+- [Tanotis® - The International Wholesale Store](https://www.tanotis.com/)  
+- [Industrybuying](https://www.industrybuying.com/)  Buy Industrial & Business Supplies Online at the Best Price
+
+## robotics 
+- [Robokits India](https://robokits.co.in/)  
+- [ThinkRobotics.com](https://thinkrobotics.com/)  
+- [Probots](https://probots.co.in/)  
+- [flyrobo](https://www.flyrobo.in/)  for Robotics, Drones and electronic parts
+
+## raspberry pi
+Location : India
+[Silverline Electronics - Raspberry Pi](https://www.silverlineelectronics.in/)  for raspberry pi 
 
 ## pcb design 
 Location: India
@@ -57,12 +72,16 @@ Location : India
 ## 3d printers and spare 
 Location: India
 
-- [WOL 3D](https://worldoflilliputs.com/products/)  printers, scanners, pens, filaments
 - [Robu.in - 3d printers](https://robu.in/product-category/3d-printer-parts/full-3d-printer-kit/)  
-- [3idea](https://www.3idea.in/)
-- [3DPrintronics](https://www.3dprintronics.com/)  for prusa printers
 - [DConqueror3D](https://dc3d.in/)  3d printer spares and voron builds
+- [Novo3d](https://novo3d.in/)  
+- [3DPrintronics](https://www.3dprintronics.com/) 
 - [3DZONE](https://3dzone.in/)  
+- [WOL 3D](https://worldoflilliputs.com/products/)  printers, scanners, pens, filaments
+- [3idea](https://www.3idea.in/)
+
+Location : China 
+- [Biqu Equipment](https://biqu.equipment/)  
 
 ## 3d printing services 
 Location: India
@@ -88,3 +107,7 @@ Location: India
 - [Robu.in - Drone Parts: Buy Drone Components at Best Price in India](https://robu.in/product-category/drone-parts/)  
 - [ThinkRobotics - drones](https://thinkrobotics.com/collections/buy-drones-and-drone-accessories-online)  
 - [UAVGarage](https://uavgarage.com/)  
+
+## art and misc
+[Art Lounge](https://www.artlounge.in/)  Fine Art Materials
+[aseschem](https://ases.in/) Wholesale Chemical Supplier
