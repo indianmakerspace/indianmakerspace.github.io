@@ -105,9 +105,12 @@ promicro footprint rp2040
 - [daprice/keyswitches.pretty: KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets](https://github.com/daprice/keyswitches.pretty)
 - [ebastler/marbastlib: A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards](https://github.com/ebastler/marbastlib)
 
+## ki-cad tools
+- [easyw/RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD/releases/tag/v1.2.3)  A suite of kicad RF tools
+- [yaqwsx/KiKit: Automation tools for KiCAD](https://github.com/yaqwsx/KiKit)  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several tasks in a standard KiCAD workflow
 
 ### keebio
-- [keebio/keebio-components: KiCAD components for schematics](https://github.com/keebio/keebio-components)
+- [keebio/keebio-components: KiCAD components for schematics](https://github.com/keebio/keebio-components) 
 - [keebio/Keebio-Parts.pretty: Various KiCAD footprints for mechanical keyboard parts](https://github.com/keebio/Keebio-Parts.pretty)
 
 ### ai03
