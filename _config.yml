@@ -16,3 +16,4 @@
 
 title: Indian Maker Space
 description: The companion website for the IMS Discord 
+remote_theme: "dracula/gh-pages"
