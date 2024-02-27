@@ -4,11 +4,11 @@ last update: 2024-02-25
 > this is a work in progress
 
 ## github awesome 
-[help-14/mechanical-keyboard: DIY mechanical keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)  
-[diimdeep/awesome-split-keyboards: A collection of ergonomic split keyboards ⌨](https://github.com/diimdeep/awesome-split-keyboards) 
+- [help-14/mechanical-keyboard: DIY mechanical keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)  
+- [diimdeep/awesome-split-keyboards: A collection of ergonomic split keyboards ⌨](https://github.com/diimdeep/awesome-split-keyboards) 
 
 ## 60s and above keyboards
-[4pplet/cyber60: DIY-friendly 60% Bluetooth PCB using the nRF52840. MX, ALPS and SMK versions.](https://github.com/4pplet/cyber60)
+- [4pplet/cyber60: DIY-friendly 60% Bluetooth PCB using the nRF52840. MX, ALPS and SMK versions.](https://github.com/4pplet/cyber60)
 
 ## 40s keyboards
 - [calvin-mcd/Forti: 13u pcb for Førti](https://github.com/calvin-mcd/Forti)

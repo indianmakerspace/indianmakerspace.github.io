@@ -109,5 +109,5 @@ Location: India
 - [UAVGarage](https://uavgarage.com/)  
 
 ## art and misc
-[Art Lounge](https://www.artlounge.in/)  Fine Art Materials
-[aseschem](https://ases.in/) Wholesale Chemical Supplier
+- [Art Lounge](https://www.artlounge.in/)  Fine Art Materials
+- [aseschem](https://ases.in/) Wholesale Chemical Supplier
