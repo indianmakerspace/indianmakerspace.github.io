@@ -107,7 +107,7 @@ Location : China
 ##  filaments
 Location: India
 
-- [Robu.in | filaments and resins](https://robu.in/product-category/3d-printer-parts/filaments/)  
+- [Robu.in filaments and resins](https://robu.in/product-category/3d-printer-parts/filaments/)  
 - [FibReel](https://www.fibreel.com/)  
 - [Dream Polymers](https://www.dreampolymers.com/)  
 - [Wol 3d Filaments and Resins](https://worldoflilliputs.com/filaments-resin-categories/)  
