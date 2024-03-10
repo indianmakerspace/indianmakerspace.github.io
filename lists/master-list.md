@@ -28,16 +28,31 @@ Location: India
 - [Goodwill Enterprises India](https://www.goodwill.in/)  Buy Hand Tools, Power Tools & Measuring Tools
 - [Tanotis® - The International Wholesale Store](https://www.tanotis.com/)  
 - [Industrybuying](https://www.industrybuying.com/)  Buy Industrial & Business Supplies Online at the Best Price
+- [Baba Tools](https://www.babaocamachine.com/)  
+- [Hnhcart](https://www.hnhcart.com/)  
+- [Fastdep.in](https://www.fastdep.in/)  
+- [IndiaLocalShop omrook](https://omrook.com/)  
+- [Industrykart.com](https://www.industrykart.com/hardware.html) 
+- [BuySupplies.in](https://buysupplies.in/)  
+- [estorewale.com](https://estorewale.com/)  
 
 ## robotics 
 - [Robokits India](https://robokits.co.in/)  
 - [ThinkRobotics.com](https://thinkrobotics.com/)  
+- [RoboticsDNA](https://roboticsdna.in/)  
 - [Probots](https://probots.co.in/)  
 - [flyrobo](https://www.flyrobo.in/)  for Robotics, Drones and electronic parts
+- [RoboTools.In](https://robotools.in/)  
+
+## pc build
+- [EliteHubs.com](https://elitehubs.com/)  
+- [PrimeABGB](https://www.primeabgb.com/)  
+- [Mdcomputers](https://mdcomputers.in/) 
+- [Thevaluestore.in](https://www.thevaluestore.in/)  
 
 ## raspberry pi
 Location : India
-[Silverline Electronics - Raspberry Pi](https://www.silverlineelectronics.in/)  for raspberry pi 
+- [Silverline Electronics - Raspberry Pi](https://www.silverlineelectronics.in/)  for raspberry pi 
 
 ## pcb design 
 Location: India
@@ -45,6 +60,7 @@ Location: India
 - [PCB Manufacturing Service - Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) 
 - [Lioncircuits](https://www.lioncircuits.com/)  
 - [ThinkRobotics - PCB Designing Service](https://thinkrobotics.com/pages/pcb)  
+- [PCB Power](https://www.pcbpower.com/)  
 
 Location: China
 - [JLCPCB](https://jlcpcb.com/)  
@@ -81,9 +97,20 @@ Location: India
 - [3DZONE](https://3dzone.in/)  
 - [WOL 3D](https://worldoflilliputs.com/products/)  printers, scanners, pens, filaments
 - [3idea](https://www.3idea.in/)
+- [Precision Bearing House](https://www.pbh.in/)  linear rails , lead screws etc.
 
 Location : China 
 - [Biqu Equipment](https://biqu.equipment/)  
+- [Trianglelab Official Website](https://trianglelab.net/)  
+- [FYSETC](https://www.fysetc.com/)  
+
+##  filaments
+Location: India
+
+- [Robu.in | filaments and resins](https://robu.in/product-category/3d-printer-parts/filaments/)  
+- [FibReel](https://www.fibreel.com/)  
+- [Dream Polymers](https://www.dreampolymers.com/)  
+- [Wol 3d Filaments and Resins](https://worldoflilliputs.com/filaments-resin-categories/)  
 
 ## 3d printing services 
 Location: India
@@ -101,6 +128,8 @@ Location: India
 - [EliteHubs.com](https://elitehubs.com/)
 
 ## drones fpv spares
+Location: India
+
 - [ANUBIS RC](https://anubisrc.com/)  
 - [drkstore.in](https://www.drkstore.in/)  
 - [Quadkart](https://www.quadkart.in/)
@@ -109,7 +138,18 @@ Location: India
 - [Robu.in - Drone Parts: Buy Drone Components at Best Price in India](https://robu.in/product-category/drone-parts/)  
 - [ThinkRobotics - drones](https://thinkrobotics.com/collections/buy-drones-and-drone-accessories-online)  
 - [UAVGarage](https://uavgarage.com/)  
+- [RCProduct.in](https://www.rcproduct.in/)  
+
+## lubricants
+Location: India
+
+- [Fortuna Associates](https://www.greaselubricant.in/shop/)  
 
 ## art and misc
+Location: India
+
 - [Art Lounge](https://www.artlounge.in/)  Fine Art Materials
 - [aseschem](https://ases.in/) Wholesale Chemical Supplier
+- [The Art Connect](https://www.theartconnect.in/)  
+- [Epoxy Art India](https://www.epoxyartindia.com/)  
+- [polylot.in](https://polylot.in/acrylic-polycarbonate-sheet/) Acrylic Sheet Buy Online The Plastic Store India for Cut To Size Plastics
