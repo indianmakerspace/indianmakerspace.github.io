@@ -72,7 +72,6 @@ Location : India
 
 - [StacksKB](https://stackskb.com/)  
 - [Neo Macro](https://neomacro.in/)  
-- [Stickeys](https://stickeys.in/) 
 - [Meckeys.com](https://www.meckeys.com/)  
 - [GenesisPC](https://www.genesispc.in/)  
 - [KeychronIndia](https://keychron.in/)
@@ -110,7 +109,15 @@ Location: India
 - [Robu.in filaments and resins](https://robu.in/product-category/3d-printer-parts/filaments/)  
 - [FibReel](https://www.fibreel.com/)  
 - [Dream Polymers](https://www.dreampolymers.com/)  
-- [Wol 3d Filaments and Resins](https://worldoflilliputs.com/filaments-resin-categories/)  
+- [Wol 3d Filaments and Resins](https://worldoflilliputs.com/filaments-resin-categories/)   
+- [3idea filaments](https://www.3idea.in/filaments)  
+- [3DZONE](https://3dzone.in/) for polymaker 
+- [zee3d - filaments](https://www.zee3d.in/category/filament) 
+- [DIY3D - filaments](https://diy3d.in/collections/filaments)  
+- [ThinkRobotics - ABS PLA PETG](https://thinkrobotics.com/collections/pla-abs-petg-filaments-for-3d-printing)  
+- [ThinkRobotics - Carbon Fiber](https://thinkrobotics.com/collections/carbon-fiber-filaments-for-3d-printing)  
+- [ESD Safe Filaments at ThinkRobotics](https://thinkrobotics.com/collections/3d-printing-filaments-esd-safe-filaments) 
+- [prontomont - filaments](https://protomont.com/3d-printer-filament/)   
 
 ## 3d printing services 
 Location: India
