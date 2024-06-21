@@ -8,6 +8,7 @@ last update: 2024-02-25
 - [parcels](https://parcelsapp.com/en/)
 - [ship24](https://www.ship24.com/)
 - [17TRACK](https://www.17track.net/en)
+- [AfterShip](https://www.aftership.com/track)  
 - [Global Track And Trace](https://globaltracktrace.ptc.post/gtt.web/) universal postal union
 
 ## general electronics and power tools
